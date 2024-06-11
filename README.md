@@ -35,17 +35,25 @@ Le SMA pour la gestion du trafic aérien comprend plusieurs agents spécifiques,
 ## Conception
 ### Diagramme de Cas d'Utilisation
 Le diagramme de cas d'utilisation fournit une représentation visuelle des interactions entre les acteurs (utilisateurs ou autres systèmes) et le système de contrôle aérien basé sur le SMA.
+![use case](images/CAS-UTILISATION.jpg)
 
 ### Diagramme de Classes
 Le diagramme de classes offre une représentation détaillée des entités du système et de leurs relations, y compris les classes clés telles que Gestionnaire de Trafic, Compagnie Aérienne, Directeur de Flux, Avion, Pilote, Piste, et Allocation.
+![calss](images/CLASS.jpg)
 
 ### Diagrammes de Séquence
 Les diagrammes de séquence illustrent les interactions dynamiques entre les agents et les processus au sein du SMA pour la gestion du trafic aérien. Les processus clés incluent :
 - **Allocation de Piste** : Étapes impliquées dans l'allocation des pistes pour le décollage et l'atterrissage.
 - **Demandes d'Atterrissage et de Décollage** : Interactions pour traiter les demandes d'atterrissage et de décollage.
+![Séquence](images/SEquence1.jpg)
+![Séquence](images/SEquence2.jpg)
 
 ### Diagrammes de Transition d'État
 Les diagrammes de transition d'état représentent les changements d'état du système ou d'un agent en réponse à des événements, montrant les flux de travail et les conditions nécessaires pour les transitions d'état.
+![transition](images/transition1.jpg)
+![transition](images/transition2.jpg)
+![transition](images/transition3.jpg)
+![transition](images/transition4.jpg)
 
 ## Implémentation
 ### Structure du Projet
