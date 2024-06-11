@@ -46,7 +46,7 @@ Les diagrammes de séquence illustrent les interactions dynamiques entre les age
 - **Allocation de Piste** : Étapes impliquées dans l'allocation des pistes pour le décollage et l'atterrissage.
 - **Demandes d'Atterrissage et de Décollage** : Interactions pour traiter les demandes d'atterrissage et de décollage.
 ![Séquence](images/SEquence1.jpg)
-![Séquence](images/SEquence2.jpg)
+![Séquence](images/Sequence2.jpg)
 
 ### Diagrammes de Transition d'État
 Les diagrammes de transition d'état représentent les changements d'état du système ou d'un agent en réponse à des événements, montrant les flux de travail et les conditions nécessaires pour les transitions d'état.
