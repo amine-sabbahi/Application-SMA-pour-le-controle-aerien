@@ -52,8 +52,9 @@ Les diagrammes de séquence illustrent les interactions dynamiques entre les age
 Les diagrammes de transition d'état représentent les changements d'état du système ou d'un agent en réponse à des événements, montrant les flux de travail et les conditions nécessaires pour les transitions d'état.
 ![transition](images/transition1.jpg)
 ![transition](images/transition2.jpg)
-![transition](images/transition3.jpg)
 ![transition](images/transition4.jpg)
+![transition](images/transition3.jpg)
+
 
 ## Implémentation
 ### Structure du Projet
